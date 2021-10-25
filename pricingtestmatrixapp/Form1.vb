@@ -17,7 +17,7 @@
         eggprice(1, 1) = 154
         eggprice(1, 2) = 154
         eggprice(1, 3) = 27
-        eggprice(2, 0) = 547
+        eggprice(2, 0) = 5
         eggprice(2, 1) = 17
         eggprice(2, 2) = 0
         eggprice(2, 3) = 9
